@@ -1,0 +1,9 @@
+numpy
+pandas
+sklearn
+scikit-image
+keras
+matplotlib
+openCV
+streamlit
+python3.8.5
